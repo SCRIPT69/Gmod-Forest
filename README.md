@@ -1,0 +1,2 @@
+# "Gmod Forest" Unity game
+This is a parody of "slender", as if the game takes place in the forest of popular game, named "Garry's mod". You have similar physics of movement, jumping and crawling  as in "Garry's mod". And you have to run from the inhabitant of this place, the nextbot, to survive. Notes are scattered on the trees in the forest, and in order to win the player must collect a certain amount of it.
